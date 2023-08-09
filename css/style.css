@@ -6,7 +6,8 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  /* background: url(../images/backgrounds/architecture.jpg) center no-repeat; */
+  background-color: gray;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -30,7 +31,8 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 3.8em;
+  color:darkred;
   margin-bottom: 0;
 }
 
